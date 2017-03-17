@@ -1,7 +1,7 @@
-myObj = '{
+{
 "Nim":15.01.53.0014,
 "Nama":"Muhammad Aris M",
 "Alamat":"Jl .Randusari Spaen 1 Semarang",
 "No_HP":081226624386,
 "Matkul":[ "M1", "M2", "M3" ]
-}';
+}
